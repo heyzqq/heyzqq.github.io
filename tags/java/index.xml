@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on 酸辣土豆丝 iCS</title>
+    <link>https://blog.springx.fun/tags/java/</link>
+    <description>Recent content in Java on 酸辣土豆丝 iCS</description>
+    <image>
+      <title>酸辣土豆丝 iCS</title>
+      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 12:28:30 +0800</lastBuildDate>
+    <atom:link href="https://blog.springx.fun/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpringBoot 关于文件的上传与下载</title>
+      <link>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</link>
+      <pubDate>Sat, 06 Apr 2024 12:28:30 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</guid>
+      <description>本文讨论了在 Spring Boot 中进行跨服务文件传输的问题，同时介绍了在 Spring Boot 和 OpenFeign 中实现文件上传的方法和问题分析，包括普通文件上传和上传时可能遇到的问题及解决方案等。</description>
+    </item>
+    <item>
+      <title>GBK 和 Unicode 之间的转换问题——“锟斤拷”的由来</title>
+      <link>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</link>
+      <pubDate>Wed, 25 May 2022 21:38:17 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</guid>
+      <description>本文主要介绍了 GBK 和 Unicode 之间的转换问题。其中，当使用错误的编码方式进行转换时，会产生乱码现象，例如将正常的 GBK 字节流以 UTF-8 解码或将正常的 UTF-8 字节流以 GBK 解码。此外，在某些场景中，由于中途被改变，导致输出的字符串出现乱码，例如在 HTTP 请求回来默认使用 UTF8 生成字符串。</description>
+    </item>
+  </channel>
+</rss>

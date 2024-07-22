@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on 酸辣土豆丝 iCS</title>
+    <link>https://blog.springx.fun/tags/windows/</link>
+    <description>Recent content in Windows on 酸辣土豆丝 iCS</description>
+    <image>
+      <title>酸辣土豆丝 iCS</title>
+      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 20:59:53 +0800</lastBuildDate>
+    <atom:link href="https://blog.springx.fun/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 的路由配置</title>
+      <link>https://blog.springx.fun/posts/tech/windows-route/</link>
+      <pubDate>Sun, 14 May 2023 20:59:53 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/windows-route/</guid>
+      <description>这篇文章介绍了 Windows 操作系统中的路由命令，包括路由表的增删改查操作。使用 route print 命令可以查看所有路由或指定相应条件的路由，使用 route add 命令可以添加默认路由、指定 IP 的路由以及指定网段的路由，使用 route delete 命令可以删除指定 IP 或网段的路由，使用 route change 命令可以修改网关和跃点数。</description>
+    </item>
+    <item>
+      <title>Windows 的端口代理配置（端口映射）</title>
+      <link>https://blog.springx.fun/posts/tech/windows-port-proxy/</link>
+      <pubDate>Sun, 14 May 2023 20:04:43 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/windows-port-proxy/</guid>
+      <description>本文介绍了端口映射的用法，通过 netsh 命令可以方便地添加、删除和修改转发规则。此外，还可以使用 netsh 命令查看已存在的端口转发规则和输出配置备份。但需要注意的是，在使用端口映射时需要开启对应端口的入口规则，同时在重置映射（清空）规则时需要慎用。</description>
+    </item>
+  </channel>
+</rss>
