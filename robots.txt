@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /tags/
 Disallow: /archives/
+Disallow: /categories/
+Disallow: /search/
 Sitemap: https://blog.springx.fun/sitemap.xml
