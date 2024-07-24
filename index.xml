@@ -105,6 +105,13 @@
       <description>wget 是个专职的下载利器，简单，专一，极致；curl 可以下载，但是长项不在于下载，而在于模拟提交 web 数据，调试网页等。</description>
     </item>
     <item>
+      <title>Java 8 Functional 函数式接口</title>
+      <link>https://blog.springx.fun/posts/tech/java-functional-interfaces/</link>
+      <pubDate>Tue, 24 Nov 2020 20:30:01 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/java-functional-interfaces/</guid>
+      <description>函数式接口（Functional Interface）就是一个有且仅有一个抽象方法，但是可以有多个非抽象方法的接口。</description>
+    </item>
+    <item>
       <title>MySQL 去重之 distinct</title>
       <link>https://blog.springx.fun/posts/tech/mysql-distinct/</link>
       <pubDate>Sat, 22 Aug 2020 21:30:03 +0800</pubDate>

@@ -27,5 +27,12 @@
       <guid>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</guid>
       <description>本文主要介绍了 GBK 和 Unicode 之间的转换问题。其中，当使用错误的编码方式进行转换时，会产生乱码现象，例如将正常的 GBK 字节流以 UTF-8 解码或将正常的 UTF-8 字节流以 GBK 解码。此外，在某些场景中，由于中途被改变，导致输出的字符串出现乱码，例如在 HTTP 请求回来默认使用 UTF8 生成字符串。</description>
     </item>
+    <item>
+      <title>Java 8 Functional 函数式接口</title>
+      <link>https://blog.springx.fun/posts/tech/java-functional-interfaces/</link>
+      <pubDate>Tue, 24 Nov 2020 20:30:01 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/java-functional-interfaces/</guid>
+      <description>函数式接口（Functional Interface）就是一个有且仅有一个抽象方法，但是可以有多个非抽象方法的接口。</description>
+    </item>
   </channel>
 </rss>
