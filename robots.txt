@@ -1,6 +1,12 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /archives/
-Disallow: /categories/
-Disallow: /search/
+User-agent: *
+Allow: /
+Disallow: /tags
+Disallow: /archives
+Disallow: /categories
+Disallow: /search
+Disallow: .jpg$
+Disallow: .jpeg$
+Disallow: .gif$
+Disallow: .png$
 Sitemap: https://blog.springx.fun/sitemap.xml
