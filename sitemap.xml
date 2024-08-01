@@ -2,18 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.springx.fun/posts/</loc>
-    <lastmod>2024-04-06T12:28:30+08:00</lastmod>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</loc>
-    <lastmod>2024-04-06T12:28:30+08:00</lastmod>
+    <loc>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</loc>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.springx.fun/</loc>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</loc>
     <lastmod>2024-04-06T12:28:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

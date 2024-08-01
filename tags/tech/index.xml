@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 12:28:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 19:58:03 +0800</lastBuildDate>
     <atom:link href="https://blog.springx.fun/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Java 把 RGB 转为 CMYK</title>
+      <link>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</link>
+      <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
+      <guid>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</guid>
+      <description>使用 JAI 把 RGB 转为 CMYK.</description>
+    </item>
     <item>
       <title>SpringBoot 关于文件的上传与下载</title>
       <link>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</link>
