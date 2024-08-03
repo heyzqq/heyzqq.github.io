@@ -8,4 +8,4 @@ Disallow: .jpg$
 Disallow: .jpeg$
 Disallow: .gif$
 Disallow: .png$
-Sitemap: https://blog.springx.fun/sitemap.xml
+Sitemap: http://localhost:1654/sitemap.xml

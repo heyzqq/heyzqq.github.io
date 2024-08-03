@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/linux/</link>
+    <link>http://localhost:1654/tags/linux/</link>
     <description>Recent content in Linux on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1654/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1654/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 May 2021 20:49:41 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1654/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>curl 于 wget 的区别（下载文件）</title>
-      <link>https://blog.springx.fun/posts/tech/linux-curl-vs-wget/</link>
+      <link>http://localhost:1654/posts/tech/linux-curl-vs-wget/</link>
       <pubDate>Tue, 11 May 2021 20:49:41 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/linux-curl-vs-wget/</guid>
+      <guid>http://localhost:1654/posts/tech/linux-curl-vs-wget/</guid>
       <description>wget 是个专职的下载利器，简单，专一，极致；curl 可以下载，但是长项不在于下载，而在于模拟提交 web 数据，调试网页等。</description>
     </item>
     <item>
       <title>Docker 之 Linux CGroup</title>
-      <link>https://blog.springx.fun/posts/tech/linux-cgroup/</link>
+      <link>http://localhost:1654/posts/tech/linux-cgroup/</link>
       <pubDate>Thu, 28 Feb 2019 22:20:34 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/linux-cgroup/</guid>
+      <guid>http://localhost:1654/posts/tech/linux-cgroup/</guid>
       <description>本文介绍了 Linux CGroup 的基本概念和相关资源子系统，并详细讲解了如何使用 CPU 限制。首先通过在 cgroup 对应的子资源目录下创建目录并往对应文件写入分配值来限制 CPU 占用率，然后运行测试程序并将其 PID 写入相应文件，最后成功限制 CPU 占用率。本文还介绍了如何移出限制，即结束进程或将 pid 写入根 cgroup 的 tasks 文件。</description>
     </item>
   </channel>
