@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 酸辣土豆丝 iCS</title>
-    <link>http://localhost:1654/tags/</link>
+    <link>https://blog.springx.fun/tags/</link>
     <description>Recent content in Tags on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>http://localhost:1654/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1654/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 19:58:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1654/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.springx.fun/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>http://localhost:1654/tags/java/</link>
+      <link>https://blog.springx.fun/tags/java/</link>
       <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1654/tags/java/</guid>
+      <guid>https://blog.springx.fun/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1654/tags/tech/</link>
+      <link>https://blog.springx.fun/tags/tech/</link>
       <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1654/tags/tech/</guid>
+      <guid>https://blog.springx.fun/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1654/tags/faq/</link>
+      <link>https://blog.springx.fun/tags/faq/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>http://localhost:1654/tags/faq/</guid>
+      <guid>https://blog.springx.fun/tags/faq/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomcat</title>
-      <link>http://localhost:1654/tags/tomcat/</link>
+      <link>https://blog.springx.fun/tags/tomcat/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>http://localhost:1654/tags/tomcat/</guid>
+      <guid>https://blog.springx.fun/tags/tomcat/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1654/tags/docker/</link>
+      <link>https://blog.springx.fun/tags/docker/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>http://localhost:1654/tags/docker/</guid>
+      <guid>https://blog.springx.fun/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Jenkins</title>
-      <link>http://localhost:1654/tags/jenkins/</link>
+      <link>https://blog.springx.fun/tags/jenkins/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>http://localhost:1654/tags/jenkins/</guid>
+      <guid>https://blog.springx.fun/tags/jenkins/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxy</title>
-      <link>http://localhost:1654/tags/proxy/</link>
+      <link>https://blog.springx.fun/tags/proxy/</link>
       <pubDate>Sat, 22 Jul 2023 23:15:37 +0800</pubDate>
-      <guid>http://localhost:1654/tags/proxy/</guid>
+      <guid>https://blog.springx.fun/tags/proxy/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>http://localhost:1654/tags/maven/</link>
+      <link>https://blog.springx.fun/tags/maven/</link>
       <pubDate>Fri, 30 Jun 2023 20:40:04 +0800</pubDate>
-      <guid>http://localhost:1654/tags/maven/</guid>
+      <guid>https://blog.springx.fun/tags/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1654/tags/mysql/</link>
+      <link>https://blog.springx.fun/tags/mysql/</link>
       <pubDate>Sat, 17 Jun 2023 21:58:14 +0800</pubDate>
-      <guid>http://localhost:1654/tags/mysql/</guid>
+      <guid>https://blog.springx.fun/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1654/tags/windows/</link>
+      <link>https://blog.springx.fun/tags/windows/</link>
       <pubDate>Sun, 14 May 2023 20:59:53 +0800</pubDate>
-      <guid>http://localhost:1654/tags/windows/</guid>
+      <guid>https://blog.springx.fun/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>http://localhost:1654/tags/redis/</link>
+      <link>https://blog.springx.fun/tags/redis/</link>
       <pubDate>Mon, 27 Dec 2021 23:09:58 +0800</pubDate>
-      <guid>http://localhost:1654/tags/redis/</guid>
+      <guid>https://blog.springx.fun/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>优秀转载</title>
-      <link>http://localhost:1654/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</link>
+      <link>https://blog.springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</link>
       <pubDate>Mon, 27 Dec 2021 23:09:58 +0800</pubDate>
-      <guid>http://localhost:1654/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</guid>
+      <guid>https://blog.springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1654/tags/linux/</link>
+      <link>https://blog.springx.fun/tags/linux/</link>
       <pubDate>Tue, 11 May 2021 20:49:41 +0800</pubDate>
-      <guid>http://localhost:1654/tags/linux/</guid>
+      <guid>https://blog.springx.fun/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://localhost:1654/tags/golang/</link>
+      <link>https://blog.springx.fun/tags/golang/</link>
       <pubDate>Sun, 16 Aug 2020 21:47:07 +0800</pubDate>
-      <guid>http://localhost:1654/tags/golang/</guid>
+      <guid>https://blog.springx.fun/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Others</title>
-      <link>http://localhost:1654/tags/others/</link>
+      <link>https://blog.springx.fun/tags/others/</link>
       <pubDate>Wed, 20 Mar 2019 22:54:27 +0800</pubDate>
-      <guid>http://localhost:1654/tags/others/</guid>
+      <guid>https://blog.springx.fun/tags/others/</guid>
       <description></description>
     </item>
   </channel>
