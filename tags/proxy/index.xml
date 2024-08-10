@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Proxy on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/proxy/</link>
+    <link>https://springx.fun/tags/proxy/</link>
     <description>Recent content in Proxy on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jul 2023 23:15:37 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何为终端或 Git 设置代理？</title>
-      <link>https://blog.springx.fun/posts/tech/proxy-for-terminal-and-git/</link>
+      <link>https://springx.fun/posts/tech/proxy-for-terminal-and-git/</link>
       <pubDate>Sat, 22 Jul 2023 23:15:37 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/proxy-for-terminal-and-git/</guid>
+      <guid>https://springx.fun/posts/tech/proxy-for-terminal-and-git/</guid>
       <description>在 Windows 中使用 CMD、PowerShell 和 Git Bash / Linux 终端设置代理的方法，以及如何在 SSH 方式下配置代理。</description>
     </item>
   </channel>

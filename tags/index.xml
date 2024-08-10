@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/</link>
+    <link>https://springx.fun/tags/</link>
     <description>Recent content in Tags on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 19:58:03 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://blog.springx.fun/tags/java/</link>
+      <link>https://springx.fun/tags/java/</link>
       <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/java/</guid>
+      <guid>https://springx.fun/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://blog.springx.fun/tags/tech/</link>
+      <link>https://springx.fun/tags/tech/</link>
       <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/tech/</guid>
+      <guid>https://springx.fun/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>https://blog.springx.fun/tags/faq/</link>
+      <link>https://springx.fun/tags/faq/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/faq/</guid>
+      <guid>https://springx.fun/tags/faq/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomcat</title>
-      <link>https://blog.springx.fun/tags/tomcat/</link>
+      <link>https://springx.fun/tags/tomcat/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/tomcat/</guid>
+      <guid>https://springx.fun/tags/tomcat/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://blog.springx.fun/tags/docker/</link>
+      <link>https://springx.fun/tags/docker/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/docker/</guid>
+      <guid>https://springx.fun/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Jenkins</title>
-      <link>https://blog.springx.fun/tags/jenkins/</link>
+      <link>https://springx.fun/tags/jenkins/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/jenkins/</guid>
+      <guid>https://springx.fun/tags/jenkins/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxy</title>
-      <link>https://blog.springx.fun/tags/proxy/</link>
+      <link>https://springx.fun/tags/proxy/</link>
       <pubDate>Sat, 22 Jul 2023 23:15:37 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/proxy/</guid>
+      <guid>https://springx.fun/tags/proxy/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>https://blog.springx.fun/tags/maven/</link>
+      <link>https://springx.fun/tags/maven/</link>
       <pubDate>Fri, 30 Jun 2023 20:40:04 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/maven/</guid>
+      <guid>https://springx.fun/tags/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>https://blog.springx.fun/tags/mysql/</link>
+      <link>https://springx.fun/tags/mysql/</link>
       <pubDate>Sat, 17 Jun 2023 21:58:14 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/mysql/</guid>
+      <guid>https://springx.fun/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://blog.springx.fun/tags/windows/</link>
+      <link>https://springx.fun/tags/windows/</link>
       <pubDate>Sun, 14 May 2023 20:59:53 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/windows/</guid>
+      <guid>https://springx.fun/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>https://blog.springx.fun/tags/redis/</link>
+      <link>https://springx.fun/tags/redis/</link>
       <pubDate>Mon, 27 Dec 2021 23:09:58 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/redis/</guid>
+      <guid>https://springx.fun/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>优秀转载</title>
-      <link>https://blog.springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</link>
+      <link>https://springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</link>
       <pubDate>Mon, 27 Dec 2021 23:09:58 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</guid>
+      <guid>https://springx.fun/tags/%E4%BC%98%E7%A7%80%E8%BD%AC%E8%BD%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://blog.springx.fun/tags/linux/</link>
+      <link>https://springx.fun/tags/linux/</link>
       <pubDate>Tue, 11 May 2021 20:49:41 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/linux/</guid>
+      <guid>https://springx.fun/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://blog.springx.fun/tags/golang/</link>
+      <link>https://springx.fun/tags/golang/</link>
       <pubDate>Sun, 16 Aug 2020 21:47:07 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/golang/</guid>
+      <guid>https://springx.fun/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Others</title>
-      <link>https://blog.springx.fun/tags/others/</link>
+      <link>https://springx.fun/tags/others/</link>
       <pubDate>Wed, 20 Mar 2019 22:54:27 +0800</pubDate>
-      <guid>https://blog.springx.fun/tags/others/</guid>
+      <guid>https://springx.fun/tags/others/</guid>
       <description></description>
     </item>
   </channel>

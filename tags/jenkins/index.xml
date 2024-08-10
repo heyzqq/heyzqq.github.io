@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jenkins on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/jenkins/</link>
+    <link>https://springx.fun/tags/jenkins/</link>
     <description>Recent content in Jenkins on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Aug 2023 21:39:09 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用 Docker-Compose 搭建 Jenkins</title>
-      <link>https://blog.springx.fun/posts/tech/docker-compose-install-jenkins/</link>
+      <link>https://springx.fun/posts/tech/docker-compose-install-jenkins/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/docker-compose-install-jenkins/</guid>
+      <guid>https://springx.fun/posts/tech/docker-compose-install-jenkins/</guid>
       <description>这篇文章介绍了使用 Docker 搭建 Jenkins 的主要安装步骤和权限问题处理。对于 Docker 权限问题，可以将容器内部的用户添加到宿主机的 Docker 组中；对于映射目录权限问题，可以手动创建目录并分配权限，或者修改已创建目录的权限。</description>
     </item>
   </channel>

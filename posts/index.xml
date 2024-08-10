@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/posts/</link>
+    <link>https://springx.fun/posts/</link>
     <description>Recent content in Posts on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 19:58:03 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用 Java 把 RGB 转为 CMYK</title>
-      <link>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</link>
+      <link>https://springx.fun/posts/tech/java-convert-rgb-to-cmyk/</link>
       <pubDate>Thu, 01 Aug 2024 19:58:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</guid>
+      <guid>https://springx.fun/posts/tech/java-convert-rgb-to-cmyk/</guid>
       <description>使用 JAI 把 RGB 转为 CMYK.</description>
     </item>
     <item>
       <title>SpringBoot 关于文件的上传与下载</title>
-      <link>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</link>
+      <link>https://springx.fun/posts/tech/java-springboot-file-upload-download/</link>
       <pubDate>Sat, 06 Apr 2024 12:28:30 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</guid>
+      <guid>https://springx.fun/posts/tech/java-springboot-file-upload-download/</guid>
       <description>本文讨论了在 Spring Boot 中进行跨服务文件传输的问题，同时介绍了在 Spring Boot 和 OpenFeign 中实现文件上传的方法和问题分析，包括普通文件上传和上传时可能遇到的问题及解决方案等。</description>
     </item>
     <item>
       <title>Tomcat 停止后无法启动，“Tomcat appears to still be running with PID ...”</title>
-      <link>https://blog.springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</link>
+      <link>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</guid>
+      <guid>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</guid>
       <description>Tomcat 无法启动，报似乎仍在运行中，是因为程序记住了正在运行的 PID，异常终止导致没有正常清空该 PID，再次启动时检测到该 PID，故报 Tomcat 可能已经正在运行中...</description>
     </item>
     <item>
       <title>使用 Docker-Compose 搭建 Jenkins</title>
-      <link>https://blog.springx.fun/posts/tech/docker-compose-install-jenkins/</link>
+      <link>https://springx.fun/posts/tech/docker-compose-install-jenkins/</link>
       <pubDate>Mon, 21 Aug 2023 21:39:09 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/docker-compose-install-jenkins/</guid>
+      <guid>https://springx.fun/posts/tech/docker-compose-install-jenkins/</guid>
       <description>这篇文章介绍了使用 Docker 搭建 Jenkins 的主要安装步骤和权限问题处理。对于 Docker 权限问题，可以将容器内部的用户添加到宿主机的 Docker 组中；对于映射目录权限问题，可以手动创建目录并分配权限，或者修改已创建目录的权限。</description>
     </item>
     <item>
       <title>如何为终端或 Git 设置代理？</title>
-      <link>https://blog.springx.fun/posts/tech/proxy-for-terminal-and-git/</link>
+      <link>https://springx.fun/posts/tech/proxy-for-terminal-and-git/</link>
       <pubDate>Sat, 22 Jul 2023 23:15:37 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/proxy-for-terminal-and-git/</guid>
+      <guid>https://springx.fun/posts/tech/proxy-for-terminal-and-git/</guid>
       <description>在 Windows 中使用 CMD、PowerShell 和 Git Bash / Linux 终端设置代理的方法，以及如何在 SSH 方式下配置代理。</description>
     </item>
     <item>
       <title>使用 Docker-Compose 搭建 Maven 私服 Nexus</title>
-      <link>https://blog.springx.fun/posts/tech/docker-compose-install-maven-nexus/</link>
+      <link>https://springx.fun/posts/tech/docker-compose-install-maven-nexus/</link>
       <pubDate>Fri, 30 Jun 2023 20:40:04 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/docker-compose-install-maven-nexus/</guid>
+      <guid>https://springx.fun/posts/tech/docker-compose-install-maven-nexus/</guid>
       <description>Maven 私服 Nexus 的搭建。</description>
     </item>
     <item>
       <title>MySQL 用户数据权限配置</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-data-permission/</link>
+      <link>https://springx.fun/posts/tech/mysql-data-permission/</link>
       <pubDate>Sat, 17 Jun 2023 21:58:14 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-data-permission/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-data-permission/</guid>
       <description>MySQL 中提供了 GRANT 和 REVOKE 命令用于授权和回收权限。文章详细介绍了 MySQL 中的全局权限、库级权限、表级权限、列级权限，并且通过示例展示了如何使用 REVOKE 命令回收权限。</description>
     </item>
     <item>
       <title>MySQL 用户管理：创建、权限配置和删除</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</link>
+      <link>https://springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</link>
       <pubDate>Fri, 16 Jun 2023 20:30:31 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</guid>
       <description>文章主要讲解了 MySQL 用户管理的相关知识，包括创建用户、查询用户、操作权限限制等内容，并提供了相应的 SQL 示例。</description>
     </item>
     <item>
       <title>MySQL 的容器化部署与数据库初始化</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</link>
+      <link>https://springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</link>
       <pubDate>Sat, 20 May 2023 12:15:27 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</guid>
       <description>本文介绍了如何在 Docker 中安装 MySQL，并通过制作镜像、使用 Docker Compose 管理容器等方式来管理 MySQL 容器。在 Docker 中启动 MySQL 容器时，会对目录 /docker-entrypoint-initdb.d 下的 .sh、.sql 和 .sql.gz 类型的文件进行初始化。通过编写 Dockerfile 文件，可以将要执行的 SQL 语句放到镜像中进行管理；通过 Docker Compose 可以管理容器，其中配置文件 docker-compose.yaml 可以配置重启策略、环境变量和映射等参数。最后还演示了如何通过命令行和 Docker Compose 启动容器。</description>
     </item>
     <item>
       <title>Windows 的路由配置</title>
-      <link>https://blog.springx.fun/posts/tech/windows-route/</link>
+      <link>https://springx.fun/posts/tech/windows-route/</link>
       <pubDate>Sun, 14 May 2023 20:59:53 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/windows-route/</guid>
+      <guid>https://springx.fun/posts/tech/windows-route/</guid>
       <description>这篇文章介绍了 Windows 操作系统中的路由命令，包括路由表的增删改查操作。使用 route print 命令可以查看所有路由或指定相应条件的路由，使用 route add 命令可以添加默认路由、指定 IP 的路由以及指定网段的路由，使用 route delete 命令可以删除指定 IP 或网段的路由，使用 route change 命令可以修改网关和跃点数。</description>
     </item>
     <item>
       <title>Windows 的端口代理配置（端口映射）</title>
-      <link>https://blog.springx.fun/posts/tech/windows-port-proxy/</link>
+      <link>https://springx.fun/posts/tech/windows-port-proxy/</link>
       <pubDate>Sun, 14 May 2023 20:04:43 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/windows-port-proxy/</guid>
+      <guid>https://springx.fun/posts/tech/windows-port-proxy/</guid>
       <description>本文介绍了端口映射的用法，通过 netsh 命令可以方便地添加、删除和修改转发规则。此外，还可以使用 netsh 命令查看已存在的端口转发规则和输出配置备份。但需要注意的是，在使用端口映射时需要开启对应端口的入口规则，同时在重置映射（清空）规则时需要慎用。</description>
     </item>
     <item>
       <title>GBK 和 Unicode 之间的转换问题——“锟斤拷”的由来</title>
-      <link>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</link>
+      <link>https://springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</link>
       <pubDate>Wed, 25 May 2022 21:38:17 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</guid>
+      <guid>https://springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</guid>
       <description>本文主要介绍了 GBK 和 Unicode 之间的转换问题。其中，当使用错误的编码方式进行转换时，会产生乱码现象，例如将正常的 GBK 字节流以 UTF-8 解码或将正常的 UTF-8 字节流以 GBK 解码。此外，在某些场景中，由于中途被改变，导致输出的字符串出现乱码，例如在 HTTP 请求回来默认使用 UTF8 生成字符串。</description>
     </item>
     <item>
       <title>Redis 的缓存穿透、缓存击穿和缓存雪崩问题</title>
-      <link>https://blog.springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</link>
+      <link>https://springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</link>
       <pubDate>Mon, 27 Dec 2021 23:09:58 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</guid>
+      <guid>https://springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</guid>
       <description>海里请求中，缓存设计应该考虑的深层次问题：缓存穿透、缓存击穿与缓存雪崩。</description>
     </item>
     <item>
       <title>curl 于 wget 的区别（下载文件）</title>
-      <link>https://blog.springx.fun/posts/tech/linux-curl-vs-wget/</link>
+      <link>https://springx.fun/posts/tech/linux-curl-vs-wget/</link>
       <pubDate>Tue, 11 May 2021 20:49:41 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/linux-curl-vs-wget/</guid>
+      <guid>https://springx.fun/posts/tech/linux-curl-vs-wget/</guid>
       <description>wget 是个专职的下载利器，简单，专一，极致；curl 可以下载，但是长项不在于下载，而在于模拟提交 web 数据，调试网页等。</description>
     </item>
     <item>
       <title>Java 8 Functional 函数式接口</title>
-      <link>https://blog.springx.fun/posts/tech/java-functional-interfaces/</link>
+      <link>https://springx.fun/posts/tech/java-functional-interfaces/</link>
       <pubDate>Tue, 24 Nov 2020 20:30:01 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/java-functional-interfaces/</guid>
+      <guid>https://springx.fun/posts/tech/java-functional-interfaces/</guid>
       <description>函数式接口（Functional Interface）就是一个有且仅有一个抽象方法，但是可以有多个非抽象方法的接口。</description>
     </item>
     <item>
       <title>MySQL 去重之 distinct</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-distinct/</link>
+      <link>https://springx.fun/posts/tech/mysql-distinct/</link>
       <pubDate>Sat, 22 Aug 2020 21:30:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-distinct/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-distinct/</guid>
       <description>在使用 MySQL 时，有时需要查询出某个字段不重复的记录，这时可以使用 MySQL 提供的 distinct 这个关键字来过滤重复的记录。</description>
     </item>
     <item>
       <title>GO 语言快速入门</title>
-      <link>https://blog.springx.fun/posts/tech/golang-quick-guide/</link>
+      <link>https://springx.fun/posts/tech/golang-quick-guide/</link>
       <pubDate>Sun, 16 Aug 2020 21:47:07 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/golang-quick-guide/</guid>
+      <guid>https://springx.fun/posts/tech/golang-quick-guide/</guid>
       <description>提供给有编程基础、希望快速了解 Golang 的朋友清晰简洁的基础知识点，帮助他们快速入门这门语言。</description>
     </item>
     <item>
       <title>Learning programming is different from learning a programming language</title>
-      <link>https://blog.springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</link>
+      <link>https://springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</link>
       <pubDate>Wed, 20 Mar 2019 22:54:27 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</guid>
+      <guid>https://springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</guid>
       <description>计算机科学研究的是使用计算机自动解决问题的方法，而不是研究计算机本身。因此，虽然编程语言是帮助我们解决问题的工具，但真正的编程是通过严密的分析和推理来实现的。本文强调不同编程语言之间只有语法的差异。建议初学者从学习伪代码开始，以便更好地培养编程思维，掌握编程语言的核心部分。</description>
     </item>
     <item>
       <title>Docker 之 Linux CGroup</title>
-      <link>https://blog.springx.fun/posts/tech/linux-cgroup/</link>
+      <link>https://springx.fun/posts/tech/linux-cgroup/</link>
       <pubDate>Thu, 28 Feb 2019 22:20:34 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/linux-cgroup/</guid>
+      <guid>https://springx.fun/posts/tech/linux-cgroup/</guid>
       <description>本文介绍了 Linux CGroup 的基本概念和相关资源子系统，并详细讲解了如何使用 CPU 限制。首先通过在 cgroup 对应的子资源目录下创建目录并往对应文件写入分配值来限制 CPU 占用率，然后运行测试程序并将其 PID 写入相应文件，最后成功限制 CPU 占用率。本文还介绍了如何移出限制，即结束进程或将 pid 写入根 cgroup 的 tasks 文件。</description>
     </item>
     <item>
       <title>Hello, hugo!</title>
-      <link>https://blog.springx.fun/posts/hello-world/</link>
+      <link>https://springx.fun/posts/hello-world/</link>
       <pubDate>Fri, 15 Sep 2017 11:30:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/hello-world/</guid>
+      <guid>https://springx.fun/posts/hello-world/</guid>
       <description>Install Hugo &amp;amp; simply use it.</description>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FAQ on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/faq/</link>
+    <link>https://springx.fun/tags/faq/</link>
     <description>Recent content in FAQ on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Sep 2023 22:44:03 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/tags/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tomcat 停止后无法启动，“Tomcat appears to still be running with PID ...”</title>
-      <link>https://blog.springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</link>
+      <link>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</guid>
+      <guid>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</guid>
       <description>Tomcat 无法启动，报似乎仍在运行中，是因为程序记住了正在运行的 PID，异常终止导致没有正常清空该 PID，再次启动时检测到该 PID，故报 Tomcat 可能已经正在运行中...</description>
     </item>
   </channel>

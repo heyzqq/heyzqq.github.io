@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MySQL on 酸辣土豆丝 iCS</title>
-    <link>https://blog.springx.fun/tags/mysql/</link>
+    <link>https://springx.fun/tags/mysql/</link>
     <description>Recent content in MySQL on 酸辣土豆丝 iCS</description>
     <image>
       <title>酸辣土豆丝 iCS</title>
-      <url>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Jun 2023 21:58:14 +0800</lastBuildDate>
-    <atom:link href="https://blog.springx.fun/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://springx.fun/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MySQL 用户数据权限配置</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-data-permission/</link>
+      <link>https://springx.fun/posts/tech/mysql-data-permission/</link>
       <pubDate>Sat, 17 Jun 2023 21:58:14 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-data-permission/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-data-permission/</guid>
       <description>MySQL 中提供了 GRANT 和 REVOKE 命令用于授权和回收权限。文章详细介绍了 MySQL 中的全局权限、库级权限、表级权限、列级权限，并且通过示例展示了如何使用 REVOKE 命令回收权限。</description>
     </item>
     <item>
       <title>MySQL 用户管理：创建、权限配置和删除</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</link>
+      <link>https://springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</link>
       <pubDate>Fri, 16 Jun 2023 20:30:31 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</guid>
       <description>文章主要讲解了 MySQL 用户管理的相关知识，包括创建用户、查询用户、操作权限限制等内容，并提供了相应的 SQL 示例。</description>
     </item>
     <item>
       <title>MySQL 的容器化部署与数据库初始化</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</link>
+      <link>https://springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</link>
       <pubDate>Sat, 20 May 2023 12:15:27 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</guid>
       <description>本文介绍了如何在 Docker 中安装 MySQL，并通过制作镜像、使用 Docker Compose 管理容器等方式来管理 MySQL 容器。在 Docker 中启动 MySQL 容器时，会对目录 /docker-entrypoint-initdb.d 下的 .sh、.sql 和 .sql.gz 类型的文件进行初始化。通过编写 Dockerfile 文件，可以将要执行的 SQL 语句放到镜像中进行管理；通过 Docker Compose 可以管理容器，其中配置文件 docker-compose.yaml 可以配置重启策略、环境变量和映射等参数。最后还演示了如何通过命令行和 Docker Compose 启动容器。</description>
     </item>
     <item>
       <title>MySQL 去重之 distinct</title>
-      <link>https://blog.springx.fun/posts/tech/mysql-distinct/</link>
+      <link>https://springx.fun/posts/tech/mysql-distinct/</link>
       <pubDate>Sat, 22 Aug 2020 21:30:03 +0800</pubDate>
-      <guid>https://blog.springx.fun/posts/tech/mysql-distinct/</guid>
+      <guid>https://springx.fun/posts/tech/mysql-distinct/</guid>
       <description>在使用 MySQL 时，有时需要查询出某个字段不重复的记录，这时可以使用 MySQL 提供的 distinct 这个关键字来过滤重复的记录。</description>
     </item>
   </channel>

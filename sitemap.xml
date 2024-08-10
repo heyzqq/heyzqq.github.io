@@ -1,116 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" 
     xmlns:xhtml="http://www.w3.org/1999/xhtml" 
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
     xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://blog.springx.fun/posts/</loc>
+    <loc>https://springx.fun/posts/</loc>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/java-convert-rgb-to-cmyk/</loc>
+    <loc>https://springx.fun/posts/tech/java-convert-rgb-to-cmyk/</loc>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/</loc>
+    <loc>https://springx.fun/</loc>
+    <lastmod>2024-08-01T19:58:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/java-springboot-file-upload-download/</loc>
+    <loc>https://springx.fun/posts/tech/java-springboot-file-upload-download/</loc>
+    <lastmod>2024-04-06T12:28:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</loc>
+    <loc>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</loc>
+    <lastmod>2023-09-04T22:44:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/docker-compose-install-jenkins/</loc>
+    <loc>https://springx.fun/posts/tech/docker-compose-install-jenkins/</loc>
+    <lastmod>2023-08-21T21:39:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/proxy-for-terminal-and-git/</loc>
+    <loc>https://springx.fun/posts/tech/proxy-for-terminal-and-git/</loc>
+    <lastmod>2023-07-22T23:15:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/docker-compose-install-maven-nexus/</loc>
+    <loc>https://springx.fun/posts/tech/docker-compose-install-maven-nexus/</loc>
+    <lastmod>2023-06-30T20:40:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/mysql-data-permission/</loc>
+    <loc>https://springx.fun/posts/tech/mysql-data-permission/</loc>
+    <lastmod>2023-06-17T21:58:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</loc>
+    <loc>https://springx.fun/posts/tech/mysql-create-drop-user-and-multi-ip-restriction/</loc>
+    <lastmod>2023-06-16T20:30:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</loc>
+    <loc>https://springx.fun/posts/tech/mysql-docker-deploy-and-initialization/</loc>
+    <lastmod>2023-05-20T12:15:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/windows-route/</loc>
+    <loc>https://springx.fun/posts/tech/windows-route/</loc>
+    <lastmod>2023-05-14T20:59:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/windows-port-proxy/</loc>
+    <loc>https://springx.fun/posts/tech/windows-port-proxy/</loc>
+    <lastmod>2023-05-14T20:04:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</loc>
+    <loc>https://springx.fun/posts/tech/java-the-conversion-between-gbk-and-unicode/</loc>
+    <lastmod>2022-05-25T21:38:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</loc>
+    <loc>https://springx.fun/posts/tech/redis-penetration-breakdown-avalanche/</loc>
+    <lastmod>2021-12-27T23:09:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/linux-curl-vs-wget/</loc>
+    <loc>https://springx.fun/posts/tech/linux-curl-vs-wget/</loc>
+    <lastmod>2021-05-11T20:49:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/java-functional-interfaces/</loc>
+    <loc>https://springx.fun/posts/tech/java-functional-interfaces/</loc>
+    <lastmod>2020-11-24T20:30:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/mysql-distinct/</loc>
+    <loc>https://springx.fun/posts/tech/mysql-distinct/</loc>
+    <lastmod>2020-08-22T21:30:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/golang-quick-guide/</loc>
+    <loc>https://springx.fun/posts/tech/golang-quick-guide/</loc>
+    <lastmod>2020-08-16T21:47:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</loc>
+    <loc>https://springx.fun/posts/others/learning-programming-is-different-from-learning-a-programming-language/</loc>
+    <lastmod>2019-03-20T22:54:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/tech/linux-cgroup/</loc>
+    <loc>https://springx.fun/posts/tech/linux-cgroup/</loc>
+    <lastmod>2019-02-28T22:20:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.springx.fun/posts/hello-world/</loc>
+    <loc>https://springx.fun/posts/hello-world/</loc>
+    <lastmod>2017-09-15T11:30:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
