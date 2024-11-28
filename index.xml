@@ -9,10 +9,17 @@
       <url>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://springx.fun/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 19:58:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 21:51:17 +0800</lastBuildDate>
     <atom:link href="https://springx.fun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Worktree Cheatsheet (Worktree 速查表)</title>
+      <link>https://springx.fun/posts/tech/git-worktree-fast-introduction/</link>
+      <pubDate>Thu, 28 Nov 2024 21:51:17 +0800</pubDate>
+      <guid>https://springx.fun/posts/tech/git-worktree-fast-introduction/</guid>
+      <description>本文档提供了 Git Worktree 的简洁指南，包括如何管理和操作多个工作区以提高开发效率。</description>
+    </item>
     <item>
       <title>使用 Java 把 RGB 转为 CMYK</title>
       <link>https://springx.fun/posts/tech/java-convert-rgb-to-cmyk/</link>

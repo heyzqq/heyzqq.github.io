@@ -15,7 +15,8 @@
 其实上面这个问题就是缓存击穿的问题，它发生在缓存 KEY 的过期瞬间。对于这种情况，现在常用的解决方式有这么两种：互斥锁、永远不过期。
 互斥锁 互斥锁指的是在缓存 KEY 过期去更新的时候，先让程序去获取锁，只有获取到锁的线程才有资格去更新缓存 KEY。其他没有获取到锁的线程则休眠片刻之后再次去获取最新的缓存数据。通过这种方式，同一时刻永远只有一个线程会去读取数据库，这样也就避免了海量数据库请求对于数据库的冲击。
 而对于上面说到的锁，我们可以使用缓存提供的一些原则操作来完成。例如对于 redis 缓存来说，我们可以使用其 SETNX 命令来完成。
-public String get(key) { String value = redis....</p></div><footer class=entry-footer><span title='2021-12-27 23:09:58 +0800 CST'>December 27, 2021</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;200 words&nbsp;·&nbsp;陈树义</footer><a class=entry-link aria-label="post link to Redis 的缓存穿透、缓存击穿和缓存雪崩问题" href=https://springx.fun/posts/tech/redis-penetration-breakdown-avalanche/></a></article></main><footer class=footer><span>&copy; 2024 <a href=https://springx.fun/>酸辣土豆丝 iCS</a></span> ·
+public String get(key) { String value = redis.get(key); if (value == null) { //缓存过期 if (redis.setnx(key_mutex, 1, 1 * 60) == 1) { value = db.get(key); redis.set(key, value, expireTime); redis.del(key_mutex); } else { //休眠片刻后重试 sleep(50); get(key); } } else { return value; } } 上面的 key_mutex 其实就是一个普通的 KEY-VALUE 值，我们使用 setnx 命令去设置其值为 1。如果这时候已经有人在更新缓存 KEY 了，那么 setnx 命令会返回 0，表示设置失败。
+...</p></div><footer class=entry-footer><span title='2021-12-27 23:09:58 +0800 CST'>December 27, 2021</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;200 words&nbsp;·&nbsp;陈树义</footer><a class=entry-link aria-label="post link to Redis 的缓存穿透、缓存击穿和缓存雪崩问题" href=https://springx.fun/posts/tech/redis-penetration-breakdown-avalanche/></a></article></main><footer class=footer><span>&copy; 2024 <a href=https://springx.fun/>酸辣土豆丝 iCS</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
