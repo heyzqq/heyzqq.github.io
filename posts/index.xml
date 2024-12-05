@@ -35,6 +35,13 @@
       <description>本文讨论了在 Spring Boot 中进行跨服务文件传输的问题，同时介绍了在 Spring Boot 和 OpenFeign 中实现文件上传的方法和问题分析，包括普通文件上传和上传时可能遇到的问题及解决方案等。</description>
     </item>
     <item>
+      <title>Git 常用命令</title>
+      <link>https://springx.fun/posts/tech/git-common/</link>
+      <pubDate>Tue, 05 Dec 2023 21:34:59 +0800</pubDate>
+      <guid>https://springx.fun/posts/tech/git-common/</guid>
+      <description>Git 中储藏功能、恢复功能、标签操作以及分支操作的使用方法和相关命令，包括如何暂存部分文件、取消提交、创建与管理标签、以及分支的创建、切换、删除和合并等常见操作。</description>
+    </item>
+    <item>
       <title>Tomcat 停止后无法启动，“Tomcat appears to still be running with PID ...”</title>
       <link>https://springx.fun/posts/tech/tomcat-appears-to-still-be-running-with-pid/</link>
       <pubDate>Mon, 04 Sep 2023 22:44:03 +0800</pubDate>
